@@ -63,6 +63,9 @@
 - Порт: 8086
 - Зависимости: ClickHouse, PostgreSQL
 
+**Auto docs**
+- [docusaurus](https://docusaurus.io/docs).
+
 #### 2.1.2. Схема базы данных
 
 **PostgreSQL Schema:**
